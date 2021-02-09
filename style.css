@@ -1,11 +1,18 @@
-#header{
-    background-color: gold;
-    }
 li{
     margin: 20;
     list-style-type: none;
     float: right;
+    margin-top: 30;
 }
 ul{
     overflow: hidden;
+}
+#header{
+    background-color: gold;
+    }
+#logo{
+    float: left;
+    margin-top: 20;
+    margin-bottom: 0%;
+    padding-left: 0;
 }
