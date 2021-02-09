@@ -1,7 +1,11 @@
+#header{
+    background-color: gold;
+    }
 li{
-    float: left; 
+    margin: 20;
     list-style-type: none;
-    padding: auto;
-    margin: 10;
-    background-color: chartreuse;
+    float: right;
+}
+ul{
+    overflow: hidden;
 }
